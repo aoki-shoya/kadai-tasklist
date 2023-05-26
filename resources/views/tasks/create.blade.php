@@ -16,6 +16,13 @@
                     </label>
                     <input type="text" id='content' name="content" class="input input-bordered w-full">
                 </div>
+                
+                <div class="form-control my-4">
+                    <label for="status" class="label">
+                        <span class="label-text">状況:</span>
+                    </label>
+                    <input type="text" id='status' name="status" class="input input-bordered w-full">
+                </div>
 
             <button type="submit" class="btn btn-primary btn-outline">作成</button>
         </form>
